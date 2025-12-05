@@ -33,7 +33,7 @@ Sigue estos sencillos pasos para empezar a usar el generador:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/astra-pi/banco-password-generator.git](https://github.com/astra-pi/banco-password-generator.git)
+git clone https://github.com/astra-pi/banco-password-generator.git
 cd banco-password-generator
 EPT
 
