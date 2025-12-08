@@ -20,10 +20,10 @@
 ### ✨ Características Clave
 | Característica | Descripción |
 | :--- | :--- |
-| 🎲 **Aleatoriedad** | Utiliza `/dev/urandom` para una entropía criptográfica. |
-| 🔣 **Complejidad** | Incluye mayúsculas, minúsculas, números y símbolos. |
-| 🚀 **Rapidez** | Generación instantánea sin dependencias pesadas. |
-| 🐧 **Nativo** | Funciona en cualquier distribución Linux con Bash. |
+| **Aleatoriedad** | Utiliza `/dev/urandom` para una entropía criptográfica. |
+| **Complejidad** | Incluye mayúsculas, minúsculas, números y símbolos. |
+| **Rapidez** | Generación instantánea sin dependencias pesadas. |
+| **Nativo** | Funciona en cualquier distribución Linux con Bash. |
 
 ---
 
